@@ -8,11 +8,11 @@ const Footer = () => (
                 Forged with <i className="fas fa-heart" /> and{' '}
                 <i className="fas fa-music" /> by{' '}
                 <a
-                    href="https://codeadrian.github.io"
+                    href="https://mrtuvn.github.io"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Adrian Bece
+                    Mrtuvn
                 </a>
             </p>
         </div>

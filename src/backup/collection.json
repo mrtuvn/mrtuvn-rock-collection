@@ -1,0 +1,599 @@
+{
+    "albums": [
+        {
+            "artist": "AC/DC",
+            "album": "High Voltage",
+            "discogsID": "7808613",
+            "cover": "001.jpg",
+            "YoutubeVideoID": "44XYEeD1A1U"
+        },
+        {
+            "artist": "AC/DC",
+            "album": "Back In Black",
+            "discogsID": "9230949",
+            "cover": "002.jpg",
+            "YoutubeVideoID": "6vImyP5EYc8"
+        },
+        {
+            "artist": "AC/DC",
+            "album": "For Those About To Rock",
+            "discogsID": "7378719",
+            "cover": "003.jpg",
+            "YoutubeVideoID": "8fPf6L0XNvM"
+        },
+        {
+            "artist": "AC/DC",
+            "album": "Ballbreaker",
+            "discogsID": "2485044",
+            "cover": "004.jpg",
+            "YoutubeVideoID": "X9s_CQx4ylU"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Black Sabbath",
+            "discogsID": "3314838",
+            "cover": "005.jpg",
+            "YoutubeVideoID": "0lVdMbUx1_k"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Paranoid",
+            "discogsID": "2272448",
+            "cover": "006.jpg",
+            "YoutubeVideoID": "hkXHsK4AQPs"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Master Of Reality",
+            "discogsID": "4105958",
+            "cover": "007.jpg",
+            "YoutubeVideoID": "0s1oz5vck3s"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Heaven & Hell",
+            "discogsID": "780431",
+            "cover": "008.jpg",
+            "YoutubeVideoID": "oxtV7V3Qh0s"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Mob Rules",
+            "discogsID": "1142652",
+            "cover": "009.jpg",
+            "YoutubeVideoID": "BTxSNosJrDo"
+        },
+        {
+            "artist": "Black Sabbath",
+            "album": "Dehumanizer",
+            "discogsID": "554604",
+            "cover": "010.jpg",
+            "YoutubeVideoID": "KdWnr_zxvnM"
+        },
+        {
+            "artist": "Heaven & Hell",
+            "album": "The Devil You Know",
+            "discogsID": "1778688",
+            "cover": "011.jpg",
+            "YoutubeVideoID": "KlNaBqYQR4w"
+        },
+        {
+            "artist": "Dio",
+            "album": "Holy Diver",
+            "discogsID": "367744",
+            "cover": "012.jpg",
+            "YoutubeVideoID": "zcsE9ObDPxA"
+        },
+        {
+            "artist": "Dio",
+            "album": "Last In Line",
+            "discogsID": "367746",
+            "cover": "013.jpg",
+            "YoutubeVideoID": "pyE_oseiRTY"
+        },
+        {
+            "artist": "Dio",
+            "album": "Lock Up The Wolves",
+            "discogsID": "867916",
+            "cover": "014.jpg",
+            "YoutubeVideoID": "4ByHkpFWYWM"
+        },
+        {
+            "artist": "Iron Maiden",
+            "album": "Piece Of Mind",
+            "discogsID": "433550",
+            "cover": "015.jpg",
+            "YoutubeVideoID": "X4bgXH3sJ2Q"
+        },
+        {
+            "artist": "Iron Maiden",
+            "album": "Powerslave",
+            "discogsID": "380219",
+            "cover": "016.jpg",
+            "YoutubeVideoID": "Xg9aQvjMS60"
+        },
+        {
+            "artist": "Iron Maiden",
+            "album": "Somewhere In Time",
+            "discogsID": "4624427",
+            "cover": "017.jpg",
+            "YoutubeVideoID": "Ij99dud8-0A"
+        },
+        {
+            "artist": "Iron Maiden",
+            "album": "Fear Of The Dark",
+            "discogsID": "370473",
+            "cover": "018.jpg",
+            "YoutubeVideoID": "MhUUTvgjUFQ"
+        },
+        {
+            "artist": "Accept",
+            "album": "Restless And Wild",
+            "discogsID": "437796",
+            "cover": "019.jpg",
+            "YoutubeVideoID": "Dwynky4SNvI"
+        },
+        {
+            "artist": "Accept",
+            "album": "Balls To The Wall",
+            "discogsID": "1597994",
+            "cover": "020.jpg",
+            "YoutubeVideoID": "B_3TlrZLpQ0"
+        },
+        {
+            "artist": "Accept",
+            "album": "Metal Heart",
+            "discogsID": "1771720",
+            "cover": "021.jpg",
+            "YoutubeVideoID": "VXZQA1Wcxo0"
+        },
+        {
+            "artist": "Accept",
+            "album": "Blood Of The Nations",
+            "discogsID": "2894501",
+            "cover": "022.jpg",
+            "YoutubeVideoID": "req-oDf2ZRc"
+        },
+        {
+            "artist": "Accept",
+            "album": "Stalingrad",
+            "discogsID": "4838474",
+            "cover": "023.jpg",
+            "YoutubeVideoID": "XrjffjsR23g"
+        },
+        {
+            "artist": "Accept",
+            "album": "Blind Rage",
+            "discogsID": "6072305",
+            "cover": "024.jpg",
+            "YoutubeVideoID": "qbUXHTWZ9vk"
+        },
+        {
+            "artist": "Accept",
+            "album": "The Rise Of Chaos",
+            "discogsID": "10647950",
+            "cover": "025.jpg",
+            "YoutubeVideoID": "kla3W1_8SyI"
+        },
+        {
+            "artist": "Black Country Communion",
+            "album": "Black Country Communion",
+            "discogsID": "2640366",
+            "cover": "026.jpg",
+            "YoutubeVideoID": "ocgO6iSiU3g"
+        },
+        {
+            "artist": "Black Country Communion",
+            "album": "Black Country Communion 2",
+            "discogsID": "3016072",
+            "cover": "027.jpg",
+            "YoutubeVideoID": "hy6WLBvBXaI"
+        },
+        {
+            "artist": "Joe Bonamassa",
+            "album": "Blues Of Desperation",
+            "discogsID": "8291811",
+            "cover": "028.jpg",
+            "YoutubeVideoID": "euMNVyuqmwo"
+        },
+        {
+            "artist": "Star One",
+            "album": "Space Metal",
+            "discogsID": "4979716",
+            "cover": "029.jpg",
+            "YoutubeVideoID": "_Kw09u6pHLs"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Metal Works '73-'93",
+            "discogsID": "811283",
+            "cover": "030.jpg",
+            "YoutubeVideoID": "JhY9GOhFwN4"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "British Steel",
+            "discogsID": "619053",
+            "cover": "031.jpg",
+            "YoutubeVideoID": "L397TWLwrUU"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Screaming For Vengeance",
+            "discogsID": "840356",
+            "cover": "032.jpg",
+            "YoutubeVideoID": "UMJF37BVGTA"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Defenders Of The Faith",
+            "discogsID": "840364",
+            "cover": "033.jpg",
+            "YoutubeVideoID": "-Fl7yNIPlGM"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Painkiller",
+            "discogsID": "811171",
+            "cover": "034.jpg",
+            "YoutubeVideoID": "nM__lPTWThU"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Ram It Down",
+            "discogsID": "872360",
+            "cover": "035.jpg",
+            "YoutubeVideoID": "MxJuXVzEVVs"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Redeemer Of Souls",
+            "discogsID": "5952910",
+            "cover": "036.jpg",
+            "YoutubeVideoID": "GuDg3u-ZPEM"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Jugulator",
+            "discogsID": "3713461",
+            "cover": "037.jpg",
+            "YoutubeVideoID": "lgZfgoZ9j7o"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Demolition",
+            "discogsID": "3552234",
+            "cover": "038.jpg",
+            "YoutubeVideoID": "aUyQe3FqWAQ"
+        },
+        {
+            "artist": "Mastodon",
+            "album": "Crack The Skye",
+            "discogsID": "1711679",
+            "cover": "039.jpg",
+            "YoutubeVideoID": "s6WGNd8QR-U"
+        },
+        {
+            "artist": "Mastodon",
+            "album": "The Hunter",
+            "discogsID": "3121045",
+            "cover": "040.jpg",
+            "YoutubeVideoID": "x4vMvJcP4TA"
+        },
+        {
+            "artist": "Mastodon",
+            "album": "Once More 'Round The Sun",
+            "discogsID": "7306564",
+            "cover": "041.jpg",
+            "YoutubeVideoID": "L4PztrhXkXo"
+        },
+        {
+            "artist": "Mastodon",
+            "album": "Emperor Of Sand",
+            "discogsID": "10044758",
+            "cover": "042.jpg",
+            "YoutubeVideoID": "Og39iIBeOHI"
+        },
+        {
+            "artist": "Metallica",
+            "album": "Ride The Lightning",
+            "discogsID": "3058237",
+            "cover": "043.jpg",
+            "YoutubeVideoID": "cfys9Moz4Io"
+        },
+        {
+            "artist": "Metallica",
+            "album": "Metallica",
+            "discogsID": "5607022",
+            "cover": "044.jpg",
+            "YoutubeVideoID": "1shDB7nRuZQ"
+        },
+        {
+            "artist": "Queensryche",
+            "album": "Operation Mindcrime",
+            "discogsID": "1906195",
+            "cover": "045.jpg",
+            "YoutubeVideoID": "aq9gVp-Wk7I"
+        },
+        {
+            "artist": "Dire Straits",
+            "album": "Brothers In Arms",
+            "discogsID": "768493",
+            "cover": "046.jpg",
+            "YoutubeVideoID": "wTP2RUD_cL0"
+        },
+        {
+            "artist": "Jean-Michel Jarre",
+            "album": "Oxygene Trilogy",
+            "discogsID": "9436049",
+            "cover": "047.jpg",
+            "YoutubeVideoID": "kSIMVnPA994"
+        },
+        {
+            "artist": "Mike Oldfield",
+            "album": "Elements",
+            "discogsID": "397149",
+            "cover": "048.jpg",
+            "YoutubeVideoID": "_euDhMDDRq4"
+        },
+        {
+            "artist": "Motorhead",
+            "album": "Ace Of Spades",
+            "discogsID": "1594605",
+            "cover": "049.jpg",
+            "YoutubeVideoID": "eBIa0o36pPo"
+        },
+        {
+            "artist": "Motorhead",
+            "album": "Orgasmotron",
+            "discogsID": "756998",
+            "cover": "050.jpg",
+            "YoutubeVideoID": "yIonRQFpKN4"
+        },
+        {
+            "artist": "Motorhead",
+            "album": "Motorizer",
+            "discogsID": "2153869",
+            "cover": "051.jpg",
+            "YoutubeVideoID": "Z5vGVYImrqk"
+        },
+        {
+            "artist": "Motorhead",
+            "album": "Aftershock (Tour Edition)",
+            "discogsID": "6084502",
+            "cover": "052.jpg",
+            "YoutubeVideoID": "p4Cr0Sk7dCM"
+        },
+        {
+            "artist": "Rainbow",
+            "album": "Rising (Deluxe Edition)",
+            "discogsID": "4462282",
+            "cover": "053.jpg",
+            "YoutubeVideoID": "HDY7tTMnqys"
+        },
+        {
+            "artist": "Yngwie Malmsteen",
+            "album": "Trilogy",
+            "discogsID": "5997099",
+            "cover": "054.jpg",
+            "YoutubeVideoID": "AcTuOoiarOo"
+        },
+        {
+            "artist": "Yngwie Malmsteen",
+            "album": "Eclipse",
+            "discogsID": "4036323",
+            "cover": "055.jpg",
+            "YoutubeVideoID": "zIXc4n4O0b8"
+        },
+        {
+            "artist": "Danzig",
+            "album": "Lucifuge",
+            "discogsID": "2037267",
+            "cover": "056.jpg",
+            "YoutubeVideoID": "LVul0urTAx4"
+        },
+        {
+            "artist": "Danzig",
+            "album": "How The Gods Kill",
+            "discogsID": "682238",
+            "cover": "057.jpg",
+            "YoutubeVideoID": "SYnxGD-RtNM"
+        },
+        {
+            "artist": "Bad Company",
+            "album": "Bad Company",
+            "discogsID": "5490122",
+            "cover": "058.jpg",
+            "YoutubeVideoID": "7p9mzYB--uI"
+        },
+        {
+            "artist": "Ghost",
+            "album": "Meliora",
+            "discogsID": "7378019",
+            "cover": "059.jpg",
+            "YoutubeVideoID": "7V7gcmVMPIw"
+        },
+        {
+            "artist": "Rage Against The Machine",
+            "album": "Rage Against The Machine",
+            "discogsID": "1507907",
+            "cover": "060.jpg",
+            "YoutubeVideoID": "bWXazVhlyxQ"
+        },
+        {
+            "artist": "Metal Church",
+            "album": "XI",
+            "discogsID": "8294349",
+            "cover": "061.jpg",
+            "YoutubeVideoID": "jtk3LLzYHRo"
+        },
+        {
+            "artist": "The Sword",
+            "album": "High Country",
+            "discogsID": "7378309",
+            "cover": "062.jpg",
+            "YoutubeVideoID": "dykNYnmXlKI"
+        },
+        {
+            "artist": "Alice Cooper",
+            "album": "Paranormal",
+            "discogsID": "10610503",
+            "cover": "063.jpg",
+            "YoutubeVideoID": "nF_w79N418Y"
+        },
+        {
+            "artist": "Meat Loaf",
+            "album": "Bat Out Of Hell II",
+            "discogsID": "471111",
+            "cover": "064.jpg",
+            "YoutubeVideoID": "9X_ViIPA-Gc"
+        },
+        {
+            "artist": "Ramones",
+            "album": "Too Tough To Die",
+            "discogsID": "1952005",
+            "cover": "065.jpg",
+            "YoutubeVideoID": "g5sHCsNDLX4"
+        },
+        {
+            "artist": "Ramones",
+            "album": "Road To Ruin",
+            "discogsID": "1102593",
+            "cover": "066.jpg",
+            "YoutubeVideoID": "ZLlLtSG7xe4"
+        },
+        {
+            "artist": "Slash",
+            "album": "World On Fire",
+            "discogsID": "6092144",
+            "cover": "067.jpg",
+            "YoutubeVideoID": "rFN9FQafITw"
+        },
+        {
+            "artist": "Iced Earth",
+            "album": "Glorious Burden",
+            "discogsID": "443938",
+            "cover": "068.jpg",
+            "YoutubeVideoID": "j7yi-4Bpc7U"
+        },
+        {
+            "artist": "Billy Idol",
+            "album": "Idolize Yourself",
+            "discogsID": "1407972",
+            "cover": "069.jpg",
+            "YoutubeVideoID": "VdphvuyaV_I"
+        },
+        {
+            "artist": "Pink Floyd",
+            "album": "Dark Side Of The Moon",
+            "discogsID": "378824",
+            "cover": "070.jpg",
+            "YoutubeVideoID": "Kjgwjh4H7wg"
+        },
+        {
+            "artist": "Deep Purple",
+            "album": "In Rock",
+            "discogsID": "2532872",
+            "cover": "071.jpg",
+            "YoutubeVideoID": "XXgMN_KjzW0"
+        },
+        {
+            "artist": "Blue Oyster Cult",
+            "album": "Agents Of Fortune",
+            "discogsID": "6689079",
+            "cover": "072.jpg",
+            "YoutubeVideoID": "vIsdGEE_Og0"
+        },
+        {
+            "artist": "Clutch",
+            "album": "Psychic Warfare",
+            "discogsID": "7550967",
+            "cover": "073.jpg",
+            "YoutubeVideoID": "X8cmbmwFAl8"
+        },
+        {
+            "artist": "Halestorm",
+            "album": "Strange Case Of...",
+            "discogsID": "6116125",
+            "cover": "074.jpg",
+            "YoutubeVideoID": "FmkHqUwa4zg"
+        },
+        {
+            "artist": "Raven Lord",
+            "album": "Descent To The Underworld",
+            "discogsID": "5757796",
+            "cover": "075.jpg",
+            "YoutubeVideoID": "AsvLZxbXgPA"
+        },
+        {
+            "artist": "Guns 'n' Roses",
+            "album": "Appetite For Destruction",
+            "discogsID": "1897206",
+            "cover": "076.jpg",
+            "YoutubeVideoID": "o1tj2zJ2Wvg"
+        },
+        {
+            "artist": "Grave Digger",
+            "album": "Tunes Of War",
+            "discogsID": "2564285",
+            "cover": "077.jpg",
+            "YoutubeVideoID": "p-x_uBB-KIE"
+        },
+        {
+            "artist": "Grave Digger",
+            "album": "Knights Of The Cross",
+            "discogsID": "896755",
+            "cover": "078.jpg",
+            "YoutubeVideoID": "b34ehBzxDJ0"
+        },
+        {
+            "artist": "Devin Townsend",
+            "album": "Ziltoid: Dark Matters",
+            "discogsID": "8544657",
+            "cover": "079.jpg",
+            "YoutubeVideoID": "wyPfrbJKMpg"
+        },
+        {
+            "artist": "Danzig",
+            "album": "Danzig",
+            "discogsID": "795975",
+            "cover": "080.jpg",
+            "YoutubeVideoID": "zO6nRXPzX1A"
+        },
+        {
+            "artist": "W.A.S.P.",
+            "album": "The Crimson Idol",
+            "discogsID": "8823255",
+            "cover": "081.jpg",
+            "YoutubeVideoID": "C7hsvgQS_U4"
+        },
+        {
+            "artist": "U.D.O.",
+            "album": "No Limits",
+            "discogsID": "4469267",
+            "cover": "082.jpg",
+            "YoutubeVideoID": "b24yCSFTJbM"
+        },
+        {
+            "artist": "Judas Priest",
+            "album": "Firepower",
+            "discogsID": "11684036",
+            "cover": "083.jpg",
+            "YoutubeVideoID": "zVVrfqwA5lQ"
+        },
+        {
+            "artist": "Deep Purple",
+            "album": "30: Very Best Of",
+            "discogsID": "3562728",
+            "cover": "084.jpg",
+            "YoutubeVideoID": "gZ_kez7WVUU"
+        },
+        {
+            "artist": "Whitesnake",
+            "album": "Here I Go Again: The Whitesnake Collection",
+            "discogsID": "3153561",
+            "cover": "085.jpg",
+            "YoutubeVideoID": "swPt9HBRXuE"
+        }
+    ]
+}

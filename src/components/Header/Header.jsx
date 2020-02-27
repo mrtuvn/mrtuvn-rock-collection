@@ -6,7 +6,7 @@ const Header = ({ handleSearchInputChange, searchTerm, clearSearchTerm }) => (
         <div className="container header__container">
             <div className="header__section">
                 <Link to="/">
-                    <h1>Adrian's Music Collection</h1>
+                    <h1>Mrtuvn's Music Collection</h1>
                 </Link>
             </div>
             <div className="header__section search">
