@@ -5,8 +5,8 @@ import '../node_modules/firebase/storage';
 // Initalize and export Firebase.
 const config = {
     apiKey: 'xxxxxx',
-    authDomain: 'xxxxx',
-    databaseURL: 'https://xxxx',
+    authDomain: 'xxxxx.firebaseapp.com',
+    databaseURL: 'https://xxxx.firebaseio.com',
     projectId: 'mrtuvn-music-collection',
     storageBucket: '',
     messagingSenderId: 'xxxxx'
