@@ -1,0 +1,12 @@
+@import '/css/variables.pcss';
+@import '/css/page.pcss';
+@import '/css/header.pcss';
+@import '/css/media.pcss';
+@import '/css/button.pcss';
+@import '/css/footer.pcss';
+@import '/css/card.pcss';
+@import '/css/loading.pcss';
+@import '/css/search.pcss';
+@import '/css/album.pcss';
+
+@lost flexbox flex;

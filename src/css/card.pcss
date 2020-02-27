@@ -1,0 +1,160 @@
+.albumCard {
+    display: flex;
+    background-color: var(--secondary-color-alt);
+    position: relative;
+    margin-bottom: 1em;
+    border: 0.4em double var(--primary-color);
+    text-align: center;
+    flex-direction: column;
+
+    &:hover {
+        & .albumCard__overlay {
+            background-image: linear-gradient(
+                -45deg,
+                var(--tertiary-color) 25%,
+                var(--primary-color-alt) 25%,
+                var(--primary-color-alt) 50%,
+                var(--tertiary-color) 50%,
+                var(--tertiary-color) 75%,
+                var(--primary-color-alt) 75%,
+                var(--primary-color-alt)
+            );
+        }
+    }
+
+    & .loading {
+        font-size: 3em;
+        padding: 1em;
+        padding-top: calc(50% - 0.5em);
+        z-index: 1;
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+
+    @media screen and (min-width: 768px) {
+        margin-bottom: 2em;
+    }
+
+    & a {
+        display: block;
+        color: var(--primary-color);
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+    }
+
+    & img {
+        width: 100%;
+        position: absolute;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+}
+
+.albumCard__deco {
+    position: relative;
+    overflow: visible;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top: 0.4em double var(--primary-color);
+    max-height: 0.3em;
+    background-color: var(--secondary-color-alt);
+    margin: 0;
+    border-bottom: 0;
+    text-align: center;
+
+    &::before {
+        content: '';
+        display: block;
+        z-index: 1;
+        background-color: var(--secondary-color-alt);
+        position: absolute;
+        border-top: 0.13em solid var(--secondary-color-alt);
+        top: -6.5px;
+        left: -0.2em;
+        right: -0.2em;
+    }
+
+    &::after {
+        content: '';
+        width: 1.25em;
+        height: 1.25em;
+        display: inline-block;
+        border: 0.45em double var(--primary-color);
+        z-index: 2;
+        transform: rotateZ(45deg);
+        backface-visibility: hidden;
+        position: relative;
+        top: -0.85em;
+        background-color: var(--secondary-color-alt);
+    }
+}
+
+.albumCard__overlay {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1.25em;
+    flex-grow: 1;
+    background-size: 0.25em 0.25em;
+    transition: background-image 0.3s ease;
+    background-image: linear-gradient(
+        -45deg,
+        var(--secondary-color) 25%,
+        transparent 25%,
+        transparent 50%,
+        var(--secondary-color) 50%,
+        var(--secondary-color) 75%,
+        transparent 75%,
+        transparent
+    );
+}
+
+.albumCard--extra {
+    cursor: pointer;
+}
+
+.iconWrapper {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    font-size: 10em;
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: var(--primary-color);
+    color: var(--secondary-color-alt);
+}
+
+.albumsList {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0.5em 0.5em 0;
+    list-style: none;
+
+    @media screen and (min-width: 768px) {
+        padding: 1.5em 1em 0;
+    }
+
+    & .albumsList__albumCard {
+        lost-column: 1/1;
+        @media screen and (min-width: 500px) {
+            lost-column: 1/2;
+        }
+
+        @media screen and (min-width: 920px) {
+            lost-column: 1/3;
+        }
+
+        @media screen and (min-width: 1280px) {
+            lost-column: 1/4;
+        }
+
+        @media screen and (min-width: 1920px) {
+            lost-column: 1/5;
+        }
+    }
+}

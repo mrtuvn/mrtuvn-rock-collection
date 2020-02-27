@@ -1,0 +1,32 @@
+.header {
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: var(--primary-color);
+    z-index: 10;
+
+    @media screen and (max-width: 919px) {
+        & .header__section {
+            flex-basis: 100%;
+        }
+    }
+
+    @media screen and (min-width: 920px) {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+
+        & .header__container {
+            justify-content: space-between;
+        }
+    }
+
+    &,
+    & a {
+        color: var(--secondary-color-alt);
+    }
+
+    & a {
+        text-decoration: none;
+    }
+}

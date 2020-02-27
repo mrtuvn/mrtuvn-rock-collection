@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: var(--primary-color-alt);
+    color: var(--primary-color);
+    font-family: var(--font-primary);
+    font-size: 18px;
+    line-height: 26px;
+
+    @media screen and (min-width: 1024px) {
+        font-size: 24px;
+        line-height: 34px;
+    }
+}
+
+#root,
+body,
+html {
+    min-height: 100vh;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+    padding-bottom: 1em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-weight: 400;
+    line-height: 1.25em;
+    margin-top: 0;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    font-size: 1.5em;
+    line-height: 1em;
+    text-align: center;
+    padding-bottom: 0;
+
+    @media screen and (max-width: 567px) {
+        font-size: 1em;
+    }
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.container {
+    lost-center: 1920px;
+}
+
+@media screen and (min-width: 920px) {
+    .mainWrapper {
+        padding-top: 3.27em;
+    }
+}
+
+.appWrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    & .appWrapper_mainWrapper {
+        flex: 1 1 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+.processedList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    & ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+
+        & li {
+            &:not(:last-child) {
+                padding-right: 1em;
+            }
+        }
+    }
+}
+
+.display--hidden {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+}

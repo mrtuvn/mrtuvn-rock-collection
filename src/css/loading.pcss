@@ -1,0 +1,21 @@
+.loading {
+    padding: 1em;
+    font-size: 5em;
+    text-align: center;
+
+    & .loading__icon {
+        perspective: 1000;
+        animation: rotation 1s infinite ease;
+        backface-visibility: hidden;
+        transform-origin: 50%;
+    }
+}
+
+@keyframes rotation {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}

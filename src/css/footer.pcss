@@ -1,0 +1,21 @@
+.footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color-alt);
+
+    & .footer__wrapper {
+        padding: 2em 1em 1em 1em;
+        text-align: center;
+    }
+
+    & .albumCard__deco {
+        &::before {
+            display: none;
+        }
+    }
+
+    & a {
+        color: var(--secondary-color-alt);
+        text-decoration: none;
+        border-bottom: 0.1em solid var(--secondary-color-alt);
+    }
+}
