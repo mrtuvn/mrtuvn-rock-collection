@@ -8,7 +8,7 @@ const Card = ({ discogsID, cover, album, artist }) => (
         <Link to={`/album/${discogsID}`}>
             <LazyLoad offsetVertical={500}>
                 <img
-                    src={`https://res.cloudinary.com/dv8crhoof/image/upload/c_scale,h_900,w_900/music/${cover}`}
+                    src={`https://res.cloudinary.com/dv8crhoof/image/upload/v1582858976/music/${cover}`}
                     alt={` ${artist} - ${album} cover artwork`}
                 />
             </LazyLoad>

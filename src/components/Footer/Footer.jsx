@@ -11,9 +11,7 @@ const Footer = () => (
                     href="https://mrtuvn.github.io"
                     target="_blank"
                     rel="noopener noreferrer"
-                >
-                    Mrtuvn
-                </a>
+                >Mrtuvn</a>
             </p>
         </div>
     </footer>
